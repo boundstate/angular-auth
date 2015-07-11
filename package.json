@@ -1,0 +1,15 @@
+{
+  "name": "boundstate-angular-auth",
+  "author": "Bound State Software Inc",
+  "version": "0.0.3",
+  "scripts": {
+    "postinstall": "./node_modules/.bin/bower install",
+    "test": "./node_modules/karma/bin/karma start karma.conf.js --single-run"
+  },
+  "devDependencies": {
+    "bower": "^1.3.8",
+    "karma": "^0.12.17",
+    "karma-jasmine": "^0.2.2",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}

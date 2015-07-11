@@ -1,0 +1,17 @@
+{
+  "name": "boundstate-angular-auth",
+  "author": "Bound State Software Inc",
+  "version": "0.0.3",
+  "main": "angular-auth.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "angular": ">=1.0.6",
+    "angular-ui-router": ">=0.2.10",
+    "angular-local-storage": "~0.2.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.2"
+  }
+}
