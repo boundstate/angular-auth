@@ -2,8 +2,6 @@
 
 AngularJS authorization for [ui-router](https://github.com/angular-ui/ui-router).
 
-## Installation
-
 [![Build Status](https://travis-ci.org/boundstate/angular-auth.svg)](https://travis-ci.org/boundstate/angular-auth)
 
 ## Installation

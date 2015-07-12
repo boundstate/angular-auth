@@ -1,6 +1,11 @@
 {
   "name": "boundstate-angular-auth",
   "author": "Bound State Software Inc",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boundstate/angular-auth.git"
+  },
   "version": "0.0.3",
   "main": "angular-auth.js",
   "ignore": [
